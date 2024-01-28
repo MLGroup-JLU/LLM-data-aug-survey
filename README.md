@@ -107,8 +107,8 @@
 3. Towards reporting bias in visual-language datasets: bimodal augmentation by decoupling object-attribute association. _Wu, Q. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2310.01330)]
 
 ## Application
-###Natural Language Processing
-####Text classification
+### Natural Language Processing
+#### Text classification
 1. Chataug: Leveraging chatgpt for text data augmentation. _Dai, H. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2302.13007)]
 2. DAGAM: Data Augmentation with Generation And Modification. _Jo, B. et al._ arXiv 2022. [[paper](https://arxiv.org/abs/2204.02633)]
 3. Data augmentation using pre-trained transformer models. _Kumar, V. et al._ arXiv 2020. [[paper](https://arxiv.org/abs/2003.02245)]
@@ -118,32 +118,32 @@
 7. Tuning language models as training data generators for augmentation-enhanced few-shot learning. _Meng, Y. et al._ International Conference on Machine Learning. [[paper](https://arxiv.org/abs/2211.03044)]
 8. ICLEF: In-Context Learning with Expert Feedback for Explainable Style Transfer. _Saakyan, A. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2309.08583)]
 9. DAIL: Data Augmentation for In-Context Learning via Self-Paraphrase. _Li, D. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2311.03319)]
-####Question answering
+#### Question answering
 1. MinPrompt: Graph-based Minimal Prompt Data Augmentation for Few-shot Question Answering. _Chen, X. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2310.05007)]
 2. Generative Data Augmentation using LLMs improves Distributional Robustness in Question Answering. _Chowdhury, A. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2309.06358)]
 3. Can LLMs Augment Low-Resource Reading Comprehension Datasets? Opportunities and Challenges. _Samuel, V. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2309.12426)]
 4. CATfOOD: Counterfactual Augmented Training for Improving Out-of-Domain Performance and Calibration. _Sachdeva, R. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2309.07822)]
    
-####Machine translation
+#### Machine translation
 1. EPA: Easy Prompt Augmentation on Large Language Models via Multiple Sources and Multiple Targets. _Lu, H. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2309.04725)]
 
 
-####Natural language inference
+#### Natural language inference
 1. EPA: Easy Prompt Augmentation on Large Language Models via Multiple Sources and Multiple Targets. _Lu, H. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2309.04725)]
 2. Wanli: Worker and ai collaboration for natural language inference dataset creation. _Liu, A. et al._ arXiv 2022. [[paper](https://arxiv.org/abs/2201.05955)]
 
-####Dialogue summarising
+#### Dialogue summarising
 1. EPA: Easy Prompt Augmentation on Large Language Models via Multiple Sources and Multiple Targets. _Lu, H. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2309.04725)]
 2. PULSAR at MEDIQA-Sum 2023: Large Language Models Augmented by Synthetic Dialogue Convert Patient Dialogues to Medical Records. _Schlegel, V. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2307.02006)]
 
-####Others
+#### Others
 1. Augesc: Dialogue augmentation with large language models for emotional support conversation. _Zheng, C. et al._ Findings of the Association for Computational Linguistics: ACL 2023. [[paper](https://arxiv.org/abs/2202.13047)]
 2. Augmented sbert: Data augmentation method for improving bi-encoders for pairwise sentence scoring tasks. _Thakur, N. et al._ arXiv 2020. [[paper](https://arxiv.org/abs/2010.08240)]
 3. Inpars: Data augmentation for information retrieval using large language models. _Bonifacio, L. et al._ arXiv 2022. [[paper](https://arxiv.org/abs/2202.05144)]
 4. EPA: Easy Prompt Augmentation on Large Language Models via Multiple Sources and Multiple Targets. _Lu, H. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2309.04725)]
 
-###Computer Vision
-####Image classification
+### Computer Vision
+#### Image classification
 1. It is all about where you start: Text-to-image generation with seed selection. _Samuel, D. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2304.14530)]
 2. Diversify your vision datasets with automatic diffusion-based augmentation. _Dunlap, L. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2305.16289)]
 3. Effective data augmentation with diffusion models. _Trabucco, B. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2302.07944)]
@@ -151,18 +151,18 @@
 5. Boosting Unsupervised Contrastive Learning Using Diffusion-Based Data Augmentation From Scratch. _Zang, Z. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2309.07909)]
 6. GeNIe: Generative Hard Negative Images Through Diffusion. _Koohpayegani, S. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2312.02548)]
 
-####Semantic segmentation
+#### Semantic segmentation
 1. EMIT-Diff: Enhancing Medical Image Segmentation via Text-Guided Diffusion Model. _Zhang, Z. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2310.12868)]
 2. Boosting Dermatoscopic Lesion Segmentation via Diffusion Models with Visual and Textual Prompts. _Du, S. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2310.02906)]
 3. Diffusion-based data augmentation for nuclei image segmentation. _Yu, X. et al._ International Conference on Medical Image Computing and Computer-Assisted Intervention. [[paper](https://arxiv.org/abs/2310.14197)]
 4. Image Augmentation with Controlled Diffusion for Weakly-Supervised Semantic Segmentation. _Wu, W. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2310.09760)]
 5. Generative Data Augmentation Improves Scribble-supervised Semantic Segmentation. _Schnell, J. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2311.17121)]
 
-####Object detection
+#### Object detection
 1. The Big Data Myth: Using Diffusion Models for Dataset Generation to Train Deep Detection Models. _Voetman, R. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2306.09762)]
 2. WoVoGen: World Volume-aware Diffusion for Controllable Multi-camera Driving Scene Generation. _Lu, J. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2312.02934)]
 
-###Audio signal processing
+### Audio signal processing
 1. Improving Audio Captioning Models with Fine-grained Audio Features, Text Embedding Supervision, and LLM Mix-up Augmentation. _Wu, S. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2309.17352)]
 2. Augmenting text for spoken language understanding with Large Language Models. _Sharma, R. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2309.09390)]
 3. Can large language models aid in annotating speech emotional data? uncovering new frontiers. _Latif, S. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2307.06090)]
