@@ -21,7 +21,7 @@ The papers are organized according to our survey: [A Survey on Data Augmentation
 Related projects:
 
 - Evlauation of large language models: [[LLM-eval](https://llm-eval.github.io/)]
-- 
+  
 <!--
 图图图图图图图图图图图图图图图图图图图图图图图图图图图图图图图图图图图图图图
 -->
@@ -38,19 +38,19 @@ Related projects:
         <li><a href="#paired-augmentation">Paired Augmentation</a></li>
       </ul>
     </li>
-<li><a href="applications">Applications</a>
+<li><a href="#applications">Applications</a>
 <ul>
-    <li><a href="natural-language-processing">Natural Language Processing</a></li>
-<li><a href="computer-vision">Computer Vision</a></li>
-<li><a href="audio-signal-processing">Audio signal processing</a></li>
+    <li><a href="#natural-language-processing">Natural Language Processing</a></li>
+<li><a href="#computer-vision">Computer Vision</a></li>
+<li><a href="#audio-signal-processing">Audio signal processing</a></li>
 </ul>
 </li>
-<li><a href="data-post-processing">Data Post Processing</a>
+<li><a href="#data-post-processing">Data Post Processing</a>
 <ul>
-    <li><a href="top-k-selectiong">Top-K Selection</a></li>
-<li><a href="model-based-approaches">Model-based Approaches</a></li>
-<li><a href="score-based-approaches">Score-based Approaches</a></li>
-<li><a href="cluster-based-approaches">Cluster-based Approaches</a></li>
+    <li><a href="#top-k-selectiong">Top-K Selection</a></li>
+<li><a href="#model-based-approaches">Model-based Approaches</a></li>
+<li><a href="#score-based-approaches">Score-based Approaches</a></li>
+<li><a href="#cluster-based-approaches">Cluster-based Approaches</a></li>
 </ul>
 </i>
     <li><a href="#Contributing">Contributing</a></li>
@@ -61,7 +61,7 @@ Related projects:
 
 ## News and updates
 
-* [07/07/2023] The first version of the paper is released on arXiv: [A Survey on Data Augmentation in Large Model Era](https://export.arxiv.org/abs/2401.15422).
+* [01/27/2024] The first version of the paper is released on arXiv: [A Survey on Data Augmentation in Large Model Era](https://export.arxiv.org/abs/2401.15422).
   
 ## Approaches
 ### Image Augmentation
