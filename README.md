@@ -1,4 +1,5 @@
-
+<center>A Survey on Data Augmentation in Large Model Era<\center>
+<center>Zhou Yue^*1^ <\center>
 
 # Papers and resources on data augmentation for large models
 ## Approaches
@@ -27,14 +28,14 @@
 20. GeNIe: Generative Hard Negative Images Through Diffusion. _Koohpayegani, S. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2312.02548)]
 21. Semantic Generative Augmentations for Few-Shot Counting. _Doubinsky, P. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2311.16122)]
 
-**Visual Prompt-driven**
+***Visual Prompt-driven***
 1. ImageBrush: Learning Visual In-Context Instructions for Exemplar-Based Image Manipulation. _Sun, Y. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2308.00906)]
 2. Diffusion-based data augmentation for nuclei image segmentation. _Yu, X. et al._ International Conference on Medical Image Computing and Computer-Assisted Intervention. [[paper](https://arxiv.org/abs/2310.14197)]
 3. Image Augmentation with Controlled Diffusion for Weakly-Supervised Semantic Segmentation. _Wu, W. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2310.09760)]
 4. More control for free! image synthesis with semantic diffusion guidance. _Liu, X. et al._ Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision. [[paper](https://arxiv.org/abs/2112.05744)]
    
 
-**Multimodal Prompt-driven**
+***Multimodal Prompt-driven***
 1. Visual instruction inversion: Image editing via visual prompting. _Nguyen, T. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2307.14331)]
 2. In-context learning unlocked for diffusion models. _Wang, Z. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2305.01115)]
 3. Smartbrush: Text and shape guided object inpainting with diffusion model. _Xie, S. et al._ Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Xie_SmartBrush_Text_and_Shape_Guided_Object_Inpainting_With_Diffusion_Model_CVPR_2023_paper.html)]
