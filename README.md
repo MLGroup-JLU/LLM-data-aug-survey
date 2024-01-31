@@ -18,7 +18,7 @@
 (*: Co-first authors, #: Co-corresponding authors)
 </p>
 
-# Papers and resources on data augmentation for large models
+# Papers and resources on data augmentation using large models
 The papers are organized according to our survey: [A Survey on Data Augmentation in Large Model Era](https://export.arxiv.org/abs/2401.15422).
 
 **NOTE:** As real-time updates on the arXiv paper aren't possible, please refer to this repository for the latest information. We appreciate your contributions through pull requests or issue reports to enhance the survey, and your efforts will be acknowledged in ([acknowledgements](https://github.com/MLGroup-JLU/LLM-data-aug-survey/tree/main?tab=readme-ov-file#acknowledgements)).
