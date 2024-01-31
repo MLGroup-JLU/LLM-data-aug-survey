@@ -1,7 +1,19 @@
 <div style="text-align:center">
 A Survey on Data Augmentation in Large Model Era
-Zhou Yue<sup>†</sup>
 </div>
+
+<p align="center">
+  Yue Zhou<sup>*1</sup>&nbsp&nbsp
+  Chenlu Guo<sup>*1</sup>&nbsp&nbsp
+  Xu Wang<sup>1</sup>&nbsp&nbsp
+  Yi Chang<sup>1</sup>&nbsp&nbsp
+  Yuan Wu<sup>#1</sup>
+</p>  
+
+<p align="center">
+<sup>1</sup> Jilin University<br>
+(*: Co-first authors, #: Co-corresponding authors)
+</p>
 
 # Papers and resources on data augmentation for large models
 ## Approaches
