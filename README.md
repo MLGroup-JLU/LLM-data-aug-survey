@@ -1,4 +1,9 @@
 <h4 align="center">A Survey on Data Augmentation in Large Model Era</h4>
+<!--<div align="center">
+  <img src="imgs/logo-llmeval.png" alt="LLM evaluation" width="500"><br>
+  A collection of papers and resources related to evaluations on large language models.
+</div>
+<br>--!>
 
 <p align="center">
   Yue Zhou<sup>*1</sup>&nbsp&nbsp
@@ -22,9 +27,7 @@ Related projects:
 
 - Evlauation of large language models: [[LLM-eval](https://llm-eval.github.io/)]
   
-<!--
-图图图图图图图图图图图图图图图图图图图图图图图图图图图图图图图图图图图图图图
--->
+![](imgs/framework.png)
 
 <details>
   <summary>Table of Contents</summary>
