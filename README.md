@@ -14,6 +14,55 @@
 </p>
 
 # Papers and resources on data augmentation for large models
+The papers are organized according to our survey: [A Survey on Data Augmentation in Large Model Era](https://export.arxiv.org/abs/2401.15422).
+
+**NOTE:** As real-time updates on the arXiv paper aren't possible, please refer to this repository for the latest information. We appreciate your contributions through pull requests or issue reports to enhance the survey, and your efforts will be acknowledged in ([acknowledgements](https://github.com/MLGroup-JLU/LLM-data-aug-survey/tree/main?tab=readme-ov-file#acknowledgements)).
+
+Related projects:
+
+- Evlauation of large language models: [[LLM-eval](https://llm-eval.github.io/)]
+- 
+<!--
+图图图图图图图图图图图图图图图图图图图图图图图图图图图图图图图图图图图图图图
+-->
+
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#news-and-updates">News and Updates</a></li>
+    <li>
+      <a href="#Approaches">Approaches</a>
+      <ul>
+        <li><a href="#image-augmentation">Image Augmentation</a></li>
+        <li><a href="#text-augmentation">Text Augmentation</a></li>
+        <li><a href="#paired-augmentation">Paired Augmentation</a></li>
+      </ul>
+    </li>
+<li><a href="applications">Applications</a>
+<ul>
+    <li><a href="natural-language-processing">Natural Language Processing</a></li>
+<li><a href="computer-vision">Computer Vision</a></li>
+<li><a href="audio-signal-processing">Audio signal processing</a></li>
+</ul>
+</li>
+<li><a href="data-post-processing">Data Post Processing</a>
+<ul>
+    <li><a href="top-k-selectiong">Top-K Selection</a></li>
+<li><a href="model-based-approaches">Model-based Approaches</a></li>
+<li><a href="score-based-approaches">Score-based Approaches</a></li>
+<li><a href="cluster-based-approaches">Cluster-based Approaches</a></li>
+</ul>
+</i>
+    <li><a href="#Contributing">Contributing</a></li>
+    <li><a href="#citation">Citation</a></li>
+    <li><a href="#acknowledgements">Acknowledgments</a></li>
+  </ol>
+</details>
+
+## News and updates
+
+* [07/07/2023] The first version of the paper is released on arXiv: [A Survey on Data Augmentation in Large Model Era](https://export.arxiv.org/abs/2401.15422).
+  
 ## Approaches
 ### Image Augmentation
 #### Prompt-driven approaches
@@ -118,7 +167,7 @@
 2. PromptMix: Text-to-image diffusion models enhance the performance of lightweight networks. _Bakhtiarnia, A. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2301.12914)]
 3. Towards reporting bias in visual-language datasets: bimodal augmentation by decoupling object-attribute association. _Wu, Q. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2310.01330)]
 
-## Application
+## Applications
 ### Natural Language Processing
 #### Text classification
 1. Chataug: Leveraging chatgpt for text data augmentation. _Dai, H. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2302.13007)]
@@ -206,3 +255,30 @@
 
 ### Cluster-based Approaches
 1. Diffusion-based data augmentation for nuclei image segmentation. _Yu, X. et al._ International Conference on Medical Image Computing and Computer-Assisted Intervention. [[paper](https://arxiv.org/abs/2310.14197)]
+
+## Contributing
+
+We welcome contributions to LLM-data-aug-survey! If you'd like to contribute, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch incorporating your modifications.
+3. Submit a pull request accompanied by a clear description of the changes you made.
+
+Feel free to open an issue if you have any additions or comments.
+
+## Citation
+
+If you find this project useful in your research or work, please consider citing it:
+
+```
+@misc{zhou2024survey,
+    title={A Survey on Data Augmentation in Large Model Era},
+    author={Yue Zhou and Chenlu Guo and Xu Wang and Yi Chang and Yuan Wu},
+    year={2024},
+    eprint={2401.15422},
+    archivePrefix={arXiv},
+    primaryClass={cs.LG}
+}
+```
+
+## Acknowledgements
