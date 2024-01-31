@@ -1,5 +1,7 @@
-<center>A Survey on Data Augmentation in Large Model Era<\center>
-<center>Zhou Yue^*1^ <\center>
+<div style="text-align:center">
+A Survey on Data Augmentation in Large Model Era
+Zhou Yue<sup>†</sup>
+</div>
 
 # Papers and resources on data augmentation for large models
 ## Approaches
