@@ -1,6 +1,4 @@
-<div style="text-align:center">
-A Survey on Data Augmentation in Large Model Era
-</div>
+<center>**A Survey on Data Augmentation in Large Model Era**</center>
 
 <p align="center">
   Yue Zhou<sup>*1</sup>&nbsp&nbsp
