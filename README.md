@@ -274,13 +274,11 @@ Feel free to open an issue if you have any additions or comments.
 If you find this project useful in your research or work, please consider citing it:
 
 ```
-@misc{zhou2024survey,
-    title={A Survey on Data Augmentation in Large Model Era},
-    author={Yue Zhou and Chenlu Guo and Xu Wang and Yi Chang and Yuan Wu},
-    year={2024},
-    eprint={2401.15422},
-    archivePrefix={arXiv},
-    primaryClass={cs.LG}
+@article{zhou2024survey,
+  title={A Survey on Data Augmentation in Large Model Era},
+  author={Zhou, Yue and Guo, Chenlu and Wang, Xu and Chang, Yi and Wu, Yuan},
+  journal={arXiv preprint arXiv:2401.15422},
+  year={2024}
 }
 ```
 
