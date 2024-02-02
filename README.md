@@ -27,7 +27,7 @@ Related projects:
 
 - Evlauation of large language models: [[LLM-eval](https://llm-eval.github.io/)]
   
-![](imgs/framework.jpg)
+![](framework.png)
 
 <details>
   <summary>Table of Contents</summary>
