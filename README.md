@@ -1,5 +1,5 @@
 ![](img/logo.png)
-A collection of papers and resources related to large model-based data augmentation methods.
+<p align="center">A collection of papers and resources related to large model-based data augmentation methods.
 <h4 align="center">A Survey on Data Augmentation in Large Model Era</h4>
 <!--<div align="center">
   <img src="imgs/logo-llmeval.png" alt="LLM evaluation" width="500"><br>
