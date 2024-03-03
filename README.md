@@ -1,4 +1,4 @@
-![](img/logo.png)
+![A collection of papers and resources related to large model-based data augmentation methods.](img/logo.png)
 <h4 align="center">A Survey on Data Augmentation in Large Model Era</h4>
 <!--<div align="center">
   <img src="imgs/logo-llmeval.png" alt="LLM evaluation" width="500"><br>
@@ -16,7 +16,7 @@
 
 <p align="center">
 <sup>1</sup> Jilin University<br>
-(*: Co-first authors, #: Co-corresponding authors)
+(*: Co-first authors, #: Corresponding authors)
 </p>
 
 # Papers and resources on data augmentation using large models
