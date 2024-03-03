@@ -1,4 +1,4 @@
-![](logo.pdf)
+![](logo.png)
 <h4 align="center">A Survey on Data Augmentation in Large Model Era</h4>
 <!--<div align="center">
   <img src="imgs/logo-llmeval.png" alt="LLM evaluation" width="500"><br>
@@ -68,6 +68,7 @@ Related projects:
 * [01/27/2024] The first version of the paper is released on arXiv: [A Survey on Data Augmentation in Large Model Era](https://export.arxiv.org/abs/2401.15422).
   
 ## Approaches
+![](evolutionary-tree.png)
 ### Image Augmentation
 #### Prompt-driven approaches
 ***Text Prompt-driven***
