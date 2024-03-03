@@ -70,6 +70,7 @@ Related projects:
   
 ## Approaches
 ![](img/evolutionary-tree.png)
+<p align="center">The evolutionary tree of large model-based data augmentation.
 ### Image Augmentation
 #### Prompt-driven approaches
 ***Text Prompt-driven***
