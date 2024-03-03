@@ -91,6 +91,8 @@ Related projects:
 19. Expressive text-to-image generation with rich text. _Ge, S. et al._ Proceedings of the IEEE/CVF International Conference on Computer Vision. [[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Ge_Expressive_Text-to-Image_Generation_with_Rich_Text_ICCV_2023_paper.html)]
 20. GeNIe: Generative Hard Negative Images Through Diffusion. _Koohpayegani, S. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2312.02548)]
 21. Semantic Generative Augmentations for Few-Shot Counting. _Doubinsky, P. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2311.16122)]
+22. InstaGen: Enhancing Object Detection by Training on Synthetic Dataset. _Feng, C. et al._ arXiv 2024. [[paper](https://arxiv.org/abs/2402.05937)]
+23. Cross domain generative augmentation: Domain generalization with latent diffusion models. _Hemati, S. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2312.05387)]
 
 ***Visual Prompt-driven***
 1. ImageBrush: Learning Visual In-Context Instructions for Exemplar-Based Image Manipulation. _Sun, Y. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2308.00906)]
@@ -108,6 +110,8 @@ Related projects:
 6. Adding conditional control to text-to-image diffusion models. _Zhang, L. et al._ Proceedings of the IEEE/CVF International Conference on Computer Vision. [[paper](https://arxiv.org/abs/2302.05543)]
 7. Boosting Dermatoscopic Lesion Segmentation via Diffusion Models with Visual and Textual Prompts. _Du, S. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2310.02906)]
 8. Generative Data Augmentation Improves Scribble-supervised Semantic Segmentation. _Schnell, J. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2311.17121)]
+9. Chameleon: Foundation Models for Fairness-aware Multi-modal Data Augmentation to Enhance Coverage of Minorities. _Erfanian, M. et al._ arXiv 2024. [[paper](https://arxiv.org/abs/2402.01071)]
+10. Diffusion-based Data Augmentation for Object Counting Problems. _Wang, Z. et al._ arXiv 2024. [[paper](https://arxiv.org/abs/2401.13992)]
 
 
 
@@ -139,6 +143,7 @@ Related projects:
 9. MinPrompt: Graph-based Minimal Prompt Data Augmentation for Few-shot Question Answering. _Chen, X. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2310.05007)]
 10. Text Data Augmentation in Low-Resource Settings via Fine-Tuning of Large Language Models. _Kaddour, J. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2310.01119)]
 11. Improving Audio Captioning Models with Fine-grained Audio Features, Text Embedding Supervision, and LLM Mix-up Augmentation. _Wu, S. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2309.17352)]
+12. LLM-DA: Data Augmentation via Large Language Models for Few-Shot Named Entity Recognition. _Ye, J. et al._ arXiv 2024. [[paper](https://arxiv.org/abs/2402.14568)]
 
 #### Generated content-based approaches
 1. Augesc: Dialogue augmentation with large language models for emotional support conversation. _Zheng, C. et al._ Findings of the Association for Computational Linguistics: ACL 2023. [[paper](https://arxiv.org/abs/2202.13047)]
@@ -164,6 +169,7 @@ Related projects:
 21. Just-in-Time Security Patch Detection--LLM At the Rescue for Data Augmentation. _Tang, X. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2312.01241)]
 22. DAIL: Data Augmentation for In-Context Learning via Self-Paraphrase. _Li, D. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2311.03319)]
 23. ZeroShotDataAug: Generating and Augmenting Training Data with ChatGPT. _Ubani, S. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2304.14334)]
+24. Large Language Models as Data Augmenters for Cold-Start Item Recommendation. _Wang, J. et al._ arXiv 2024. [[paper](https://arxiv.org/abs/2402.11724)]
 
 ### Paired Augmentation
 1. Mixgen: A new multi-modal data augmentation. _Hao, X. et al._ Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision. [[paper](https://arxiv.org/abs/2206.08358)]
@@ -205,6 +211,8 @@ Related projects:
 2. Augmented sbert: Data augmentation method for improving bi-encoders for pairwise sentence scoring tasks. _Thakur, N. et al._ arXiv 2020. [[paper](https://arxiv.org/abs/2010.08240)]
 3. Inpars: Data augmentation for information retrieval using large language models. _Bonifacio, L. et al._ arXiv 2022. [[paper](https://arxiv.org/abs/2202.05144)]
 4. EPA: Easy Prompt Augmentation on Large Language Models via Multiple Sources and Multiple Targets. _Lu, H. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2309.04725)]
+5. Large Language Models as Data Augmenters for Cold-Start Item Recommendation. _Wang, J. et al._ arXiv 2024. [[paper](https://arxiv.org/abs/2402.11724)]
+6. LLM-DA: Data Augmentation via Large Language Models for Few-Shot Named Entity Recognition. _Ye, J. et al._ arXiv 2024. [[paper](https://arxiv.org/abs/2402.14568)]
 
 ### Computer Vision
 #### Image classification
@@ -214,6 +222,8 @@ Related projects:
 4. TTIDA: Controllable Generative Data Augmentation via Text-to-Text and Text-to-Image Models. _Yin, Y. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2304.08821)]
 5. Boosting Unsupervised Contrastive Learning Using Diffusion-Based Data Augmentation From Scratch. _Zang, Z. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2309.07909)]
 6. GeNIe: Generative Hard Negative Images Through Diffusion. _Koohpayegani, S. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2312.02548)]
+7. Chameleon: Foundation Models for Fairness-aware Multi-modal Data Augmentation to Enhance Coverage of Minorities. _Erfanian, M. et al._ arXiv 2024. [[paper](https://arxiv.org/abs/2402.01071)]
+8. Cross domain generative augmentation: Domain generalization with latent diffusion models. _Hemati, S. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2312.05387)]
 
 #### Semantic segmentation
 1. EMIT-Diff: Enhancing Medical Image Segmentation via Text-Guided Diffusion Model. _Zhang, Z. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2310.12868)]
@@ -225,6 +235,8 @@ Related projects:
 #### Object detection
 1. The Big Data Myth: Using Diffusion Models for Dataset Generation to Train Deep Detection Models. _Voetman, R. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2306.09762)]
 2. WoVoGen: World Volume-aware Diffusion for Controllable Multi-camera Driving Scene Generation. _Lu, J. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2312.02934)]
+3. InstaGen: Enhancing Object Detection by Training on Synthetic Dataset. _Feng, C. et al._ arXiv 2024. [[paper](https://arxiv.org/abs/2402.05937)]
+4. Diffusion-based Data Augmentation for Object Counting Problems. _Wang, Z. et al._ arXiv 2024. [[paper](https://arxiv.org/abs/2401.13992)]
 
 ### Audio signal processing
 1. Improving Audio Captioning Models with Fine-grained Audio Features, Text Embedding Supervision, and LLM Mix-up Augmentation. _Wu, S. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2309.17352)]
