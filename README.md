@@ -199,6 +199,7 @@ Related projects:
    
 #### Machine translation
 1. EPA: Easy Prompt Augmentation on Large Language Models via Multiple Sources and Multiple Targets. _Lu, H. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2309.04725)]
+2. Data augmentation for neural machine translation using generative language model. _Oh, S. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2307.16833)]
 
 
 #### Natural language inference
