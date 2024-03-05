@@ -66,7 +66,7 @@ Related projects:
 
 ## News and updates
 
-* [03/05/2024] The second version of the paper is released on arXiv: [A Survey on Data Augmentation in Large Model Era](https://export.arxiv.org/abs/2401.15422).
+* [03/04/2024] The second version of the paper is released on arXiv: [A Survey on Data Augmentation in Large Model Era](https://export.arxiv.org/abs/2401.15422).
 * [01/27/2024] The first version of the paper is released on arXiv: [A Survey on Data Augmentation in Large Model Era](https://export.arxiv.org/abs/2401.15422v1).
   
 ## Approaches
