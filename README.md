@@ -70,7 +70,7 @@ Related projects:
 * [01/27/2024] The first version of the paper is released on arXiv: [A Survey on Data Augmentation in Large Model Era](https://export.arxiv.org/abs/2401.15422v1).
   
 ## Approaches
-![](img/evolutionary-tree.png)
+![](img/evolution-tree.png)
 ### Image Augmentation
 #### Prompt-driven approaches
 ***Text Prompt-driven***
