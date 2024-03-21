@@ -183,20 +183,20 @@ Related projects:
 ## Applications
 ### Natural Language Processing
 #### Text classification
-1. Chataug: Leveraging chatgpt for text data augmentation. _Dai, H. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2302.13007)]
-2. DAGAM: Data Augmentation with Generation And Modification. _Jo, B. et al._ arXiv 2022. [[paper](https://arxiv.org/abs/2204.02633)]
-3. Data augmentation using pre-trained transformer models. _Kumar, V. et al._ arXiv 2020. [[paper](https://arxiv.org/abs/2003.02245)]
-4. Self-Guided Noise-Free Data Generation for Efficient Zero-Shot Learning. _Gao, J. et al._ The Eleventh International Conference on Learning Representations. [[paper](https://arxiv.org/abs/2205.12679)]
+1. Chataug: Leveraging chatgpt for text data augmentation. _Dai, H. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2302.13007)][[code](https://github.com/yhydhx/AugGPT)]
+2. DAGAM: Data Augmentation with Generation And Modification. _Jo, B. et al._ arXiv 2022. [[paper](https://arxiv.org/abs/2204.02633)][[code](https://github.com/HeoTaksung/DAGAM--Data-Augmentation-with-Generation-And-Modification)]
+3. Data augmentation using pre-trained transformer models. _Kumar, V. et al._ arXiv 2020. [[paper](https://arxiv.org/abs/2003.02245)][[code](https://github.com/varunkumar-dev/TransformersDataAugmentation)]
+4. Self-Guided Noise-Free Data Generation for Efficient Zero-Shot Learning. _Gao, J. et al._ The Eleventh International Conference on Learning Representations. [[paper](https://arxiv.org/abs/2205.12679)][[code](https://github.com/SumilerGAO/SunGen)]
 5. Resolving the Imbalance Issue in Hierarchical Disciplinary Topic Inference via LLM-based Data Augmentation. _Cai, X. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2310.05318)]
-6. Genius: Sketch-based language model pre-training via extreme and selective masking for text generation and augmentation. _Guo, B. et al._ arXiv 2022. [[paper](https://arxiv.org/abs/2211.10330)]
-7. Tuning language models as training data generators for augmentation-enhanced few-shot learning. _Meng, Y. et al._ International Conference on Machine Learning. [[paper](https://arxiv.org/abs/2211.03044)]
-8. ICLEF: In-Context Learning with Expert Feedback for Explainable Style Transfer. _Saakyan, A. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2309.08583)]
+6. Genius: Sketch-based language model pre-training via extreme and selective masking for text generation and augmentation. _Guo, B. et al._ arXiv 2022. [[paper](https://arxiv.org/abs/2211.10330)][[code](https://github.com/beyondguo/genius)]
+7. Tuning language models as training data generators for augmentation-enhanced few-shot learning. _Meng, Y. et al._ International Conference on Machine Learning. [[paper](https://arxiv.org/abs/2211.03044)][[code](https://github.com/yumeng5/FewGen)]
+8. ICLEF: In-Context Learning with Expert Feedback for Explainable Style Transfer. _Saakyan, A. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2309.08583)][[code](https://github.com/asaakyan/explain-st)]
 9. DAIL: Data Augmentation for In-Context Learning via Self-Paraphrase. _Li, D. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2311.03319)]
 #### Question answering
 1. MinPrompt: Graph-based Minimal Prompt Data Augmentation for Few-shot Question Answering. _Chen, X. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2310.05007)]
 2. Generative Data Augmentation using LLMs improves Distributional Robustness in Question Answering. _Chowdhury, A. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2309.06358)]
 3. Can LLMs Augment Low-Resource Reading Comprehension Datasets? Opportunities and Challenges. _Samuel, V. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2309.12426)]
-4. CATfOOD: Counterfactual Augmented Training for Improving Out-of-Domain Performance and Calibration. _Sachdeva, R. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2309.07822)]
+4. CATfOOD: Counterfactual Augmented Training for Improving Out-of-Domain Performance and Calibration. _Sachdeva, R. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2309.07822)][[code](https://github.com/UKPLab/CATfOOD/blob/main/README.md)]
    
 #### Machine translation
 1. EPA: Easy Prompt Augmentation on Large Language Models via Multiple Sources and Multiple Targets. _Lu, H. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2309.04725)]
@@ -205,16 +205,16 @@ Related projects:
 
 #### Natural language inference
 1. EPA: Easy Prompt Augmentation on Large Language Models via Multiple Sources and Multiple Targets. _Lu, H. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2309.04725)]
-2. Wanli: Worker and ai collaboration for natural language inference dataset creation. _Liu, A. et al._ arXiv 2022. [[paper](https://arxiv.org/abs/2201.05955)]
+2. Wanli: Worker and ai collaboration for natural language inference dataset creation. _Liu, A. et al._ arXiv 2022. [[paper](https://arxiv.org/abs/2201.05955)][[code](https://github.com/alisawuffles/wanli)]
 
 #### Dialogue summarising
 1. EPA: Easy Prompt Augmentation on Large Language Models via Multiple Sources and Multiple Targets. _Lu, H. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2309.04725)]
-2. PULSAR at MEDIQA-Sum 2023: Large Language Models Augmented by Synthetic Dialogue Convert Patient Dialogues to Medical Records. _Schlegel, V. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2307.02006)]
+2. PULSAR at MEDIQA-Sum 2023: Large Language Models Augmented by Synthetic Dialogue Convert Patient Dialogues to Medical Records. _Schlegel, V. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2307.02006)][[code](https://github.com/yuping-wu/PULSAR)]
 
 #### Others
-1. Augesc: Dialogue augmentation with large language models for emotional support conversation. _Zheng, C. et al._ Findings of the Association for Computational Linguistics: ACL 2023. [[paper](https://arxiv.org/abs/2202.13047)]
+1. Augesc: Dialogue augmentation with large language models for emotional support conversation. _Zheng, C. et al._ Findings of the Association for Computational Linguistics: ACL 2023. [[paper](https://arxiv.org/abs/2202.13047)][[code](https://github.com/thu-coai/augesc)]
 2. Augmented sbert: Data augmentation method for improving bi-encoders for pairwise sentence scoring tasks. _Thakur, N. et al._ arXiv 2020. [[paper](https://arxiv.org/abs/2010.08240)]
-3. Inpars: Data augmentation for information retrieval using large language models. _Bonifacio, L. et al._ arXiv 2022. [[paper](https://arxiv.org/abs/2202.05144)]
+3. Inpars: Data augmentation for information retrieval using large language models. _Bonifacio, L. et al._ arXiv 2022. [[paper](https://arxiv.org/abs/2202.05144)][[code](https://www.sbert.net/examples/training/data_augmentation/README.html)]
 4. EPA: Easy Prompt Augmentation on Large Language Models via Multiple Sources and Multiple Targets. _Lu, H. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2309.04725)]
 5. Large Language Models as Data Augmenters for Cold-Start Item Recommendation. _Wang, J. et al._ arXiv 2024. [[paper](https://arxiv.org/abs/2402.11724)]
 6. LLM-DA: Data Augmentation via Large Language Models for Few-Shot Named Entity Recognition. _Ye, J. et al._ arXiv 2024. [[paper](https://arxiv.org/abs/2402.14568)]
