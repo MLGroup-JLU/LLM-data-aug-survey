@@ -97,6 +97,8 @@ Related projects:
 21. Semantic Generative Augmentations for Few-Shot Counting. _Doubinsky, P. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2311.16122)]
 22. InstaGen: Enhancing Object Detection by Training on Synthetic Dataset. _Feng, C. et al._ arXiv 2024. [[paper](https://arxiv.org/abs/2402.05937)][[code](https://github.com/fcjian/InstaGen)]
 23. Cross domain generative augmentation: Domain generalization with latent diffusion models. _Hemati, S. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2312.05387)]
+24. FDS: Feedback-guided Domain Synthesis with Multi-Source Conditional Diffusion Models for Domain Generalization. _Noori, M. et al._ arXiv 2024. [[paper](https://arxiv.org/abs/2407.03588)][[code](https://github.com/Mehrdad-Noori/FDS)]
+
 
 ***Visual Prompt-driven***
 1. ImageBrush: Learning Visual In-Context Instructions for Exemplar-Based Image Manipulation. _Sun, Y. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2308.00906)]
@@ -229,6 +231,7 @@ Related projects:
 6. GeNIe: Generative Hard Negative Images Through Diffusion. _Koohpayegani, S. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2312.02548)][[code](https://github.com/UCDvision/GeNIe)]
 7. Chameleon: Foundation Models for Fairness-aware Multi-modal Data Augmentation to Enhance Coverage of Minorities. _Erfanian, M. et al._ arXiv 2024. [[paper](https://arxiv.org/abs/2402.01071)][[code](https://github.com/uic-indexlab/chameleon)]
 8. Cross domain generative augmentation: Domain generalization with latent diffusion models. _Hemati, S. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2312.05387)]
+9. FDS: Feedback-guided Domain Synthesis with Multi-Source Conditional Diffusion Models for Domain Generalization. _Noori, M. et al._ arXiv 2024. [[paper](https://arxiv.org/abs/2407.03588)][[code](https://github.com/Mehrdad-Noori/FDS)]
 
 #### Semantic segmentation
 1. EMIT-Diff: Enhancing Medical Image Segmentation via Text-Guided Diffusion Model. _Zhang, Z. et al._ arXiv 2023. [[paper](https://arxiv.org/abs/2310.12868)]
